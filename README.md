@@ -18,7 +18,7 @@
 <img align="left" alt="js" width="30px" src="/assets/icons8-js-48.png" style="max-width: 100%;">
 </a>
 
-<br clear="all">
+
 
 <a href="https://www.typescriptlang.org/">
 <img align="left" alt="ts" width="26px" src="/assets/icons8-машинопись-48.png" style="max-width: 100%;">
