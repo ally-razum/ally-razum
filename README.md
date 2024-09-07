@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Alevtina Razumovskaia and I'm a Fullstack developer
+# Hi there 👋 I'm Alevtina Razumovskaia and I'm a Fullstack developer
 - 🚁 I worked as a software engineer in the group for developing algorithmic support for systems at a company that manufactures automatic control systems for helicopters 
 - 📲 I worked as a quality control and software engineer in a large international IT company that produces software for mobile communication and telecommunications systems
 - 😎 And now I'm a Fullstack developer
@@ -6,7 +6,7 @@
 - 📚 Now I’m currently learning React, Redux and mastering DevOps practices
 - 💞️ I will be glad to cooperate, write joint projects on JavaScript, React, Redux toolkit
 #
-### Tools and technologies:
+## Tools and technologies:
 
 <a href="https://html.com/">
 <img align="left" alt="html" width="26px" src="/assets/icons8-html-48.png" style="max-width: 100%;">
@@ -42,13 +42,13 @@
 <a href="https://code.visualstudio.com/">
 <img align="left" alt="vs" width="26px" src="/assets/icons8-visual-studio-48.png" style="max-width: 100%;">
 </a>
-
-<br clear="all">
-<br clear="all">
-
 <a href="https://www.npmjs.com/">
 <img align="left" alt="npm" width="26px" src="/assets/icons8-npm-48.png" style="max-width: 100%;">
 </a>
+
+<br clear="all">
+<br clear="all">
+
 
 <a href="https://getbootstrap.com/">
 <img align="left" alt="bs" width="26px" src="/assets/icons8-bootstrap-48.png" style="max-width: 100%;">
