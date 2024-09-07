@@ -1,11 +1,11 @@
 ## Hi there 👋 I'm Alevtina Razumovskaia and I'm a Fullstack developer
 - 🚁 I worked as a software engineer in the group for developing algorithmic support for systems at a company that manufactures automatic control systems for helicopters 
-- 📲 I worked as a quality assurance in a large international IT company that produces software for mobile communication and telecommunications systems
-- 😎 And now I'm a Fullstack developer
+- 📲 I worked as a quality assurance engineer in a large international IT company that produces software for mobile communication and telecommunications systems
+- 😎 **And now I'm a Fullstack developer**
 - 💻 I want to participate in large interesting open source projects, learn new technologies and develop professionally
 - 📚 Now I’m currently learning React, Redux and mastering DevOps practices
 - 💞️ I will be glad to cooperate, write joint projects on JavaScript, React, Redux toolkit
-- 🤩 Let's CODE !
+- 🤩 **Let's CODE !*
 
 ### Tools and technologies:
 
