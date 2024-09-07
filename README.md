@@ -2,7 +2,8 @@
 - 🍍I’m currently learning JavaScript React
 - 💞️ I will be glad to cooperate, write joint projects on JavaScript, React, Redux toolkit
 ## Сontact me :
-- https://t.me/alya10816 
+- https://t.me/alya10816
+- alevtina.razumovskaia@mail.ru
 
 
 <!---
