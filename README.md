@@ -5,9 +5,9 @@
 - 💻 I want to participate in large interesting open source projects, learn new technologies and develop professionally
 - 📚 Now I’m currently learning React, Redux and mastering DevOps practices
 - 💞️ I will be glad to cooperate, write joint projects on JavaScript, React, Redux toolkit
-- 🤩 **Let's CODE !*
+- 🤩 **Let's CODE !**
 
-### Tools and technologies:
+## Tools and technologies:
 
 <a href="https://html.com/">
 <img align="left" alt="html" width="26px" src="/assets/icons8-html-48.png" style="max-width: 100%;">
