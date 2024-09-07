@@ -40,6 +40,11 @@
 <a href="https://getbootstrap.com/">
 <img align="left" alt="bs" width="26px" src="/assets/icons8-bootstrap-48.png" style="max-width: 100%;">
 </a>
+
+<br clear="all">
+<br clear="all">
+<br clear="all">
+<br clear="all">
 <a href="https://ant.design/">
 <img align="left" alt="ant" width="26px" src="/assets/ant-middle.png" style="max-width: 100%;">
 </a>
@@ -49,13 +54,6 @@
 <a href="https://sass-lang.com/">
 <img align="left" alt="sass" width="26px" src="/assets/icons8-sass-48.png" style="max-width: 100%;">
 </a>
-
-<br clear="all">
-
-
-
-
-<br clear="all">
 
 <a href="https://git-scm.com/">
 <img align="left" alt="git" width="26px" src="/assets/icons8-git-48.png" style="max-width: 100%;">
