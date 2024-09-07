@@ -5,7 +5,7 @@
 #
 ### Tools and technologies::
 
-<a href="https://html.com/">
+-<a href="https://html.com/">
 <img align="left" alt="html" width="26px" src="/assets/icons8-html-48.png" style="max-width: 100%;">
 </a>
 <a href="https://www.w3.org/Style/CSS/">
@@ -15,9 +15,10 @@
 <img align="left" alt="node" width="26px" src="/assets/icons8-nodejs-48.png" style="max-width: 100%;">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img align="left" alt="js" width="26px" src="/assets/icons8-js-48.png" style="max-width: 100%;">
+<img align="left" alt="js" width="30px" src="/assets/icons8-js-48.png" style="max-width: 100%;">
 </a>
-<a href="https://www.typescriptlang.org/">
+
+-<a href="https://www.typescriptlang.org/">
 <img align="left" alt="ts" width="26px" src="/assets/icons8-машинопись-48.png" style="max-width: 100%;">
 </a>
 <a href="https://react.dev/">
@@ -29,17 +30,24 @@
 <a href="https://vitejs.dev/">
 <img align="left" alt="vite" width="26px" src="/assets/icons8-быстро-48.png" style="max-width: 100%;">
 </a>
-<a href="https://jestjs.io/">
+
+-<a href="https://jestjs.io/">
 <img align="left" alt="jest" width="26px" src="/assets/jest.png" style="max-width: 100%;">
 </a>
-<a href="https://app.docker.com/">
-<img align="left" alt="docker" width="26px" src="/assets/icons8-docker-48.png" style="max-width: 100%;">
+
+-<a href="https://expressjs.com/">
+<img align="left" alt="ex" width="26px" src="/assets/icons8-экспресс-js-48.png" style="max-width: 100%;">
 </a>
 <a href="https://www.postgresql.org/">
 <img align="left" alt="pg" width="26px" src="/assets/icons8-postgresql-48.png" style="max-width: 100%;">
 </a>
-<a href="https://expressjs.com/">
-<img align="left" alt="ex" width="26px" src="/assets/icons8-экспресс-js-48.png" style="max-width: 100%;">
+<a href="https://app.docker.com/">
+<img align="left" alt="docker" width="26px" src="/assets/icons8-docker-48.png" style="max-width: 100%;">
+</a>
+
+
+<a href="https://nginx.org/">
+<img align="left" alt="" width="30px" src="/assets/nginx.png" style="max-width: 100%;">
 </a>
 
 <a href="https://www.postman.com/">
@@ -66,11 +74,9 @@
 <a href="https://git-scm.com/">
 <img align="left" alt="" width="26px" src="/assets/icons8-git-48.png" style="max-width: 100%;">
 </a>
-<a href="">
-<img align="left" alt="" width="26px" src="/assets/" style="max-width: 100%;">
-</a>
-<a href="">
-<img align="left" alt="" width="26px" src="/assets/" style="max-width: 100%;">
+
+<a href="https://www.atlassian.com/software/jira">
+<img align="left" alt="" width="26px" src="/assets/icons8-jira-48.png" style="max-width: 100%;">
 </a>
 
 
@@ -78,7 +84,7 @@
 <div style="clear:both;"></div>
 <div style="clear:both;"></div>
 
-#
+
 ### Сontact me :
 
 <a href="https://t.me/alya10816">
