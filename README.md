@@ -4,7 +4,22 @@
 - 💞️ I will be glad to cooperate, write joint projects on JavaScript, React, Redux toolkit
 #
 ### Tools and technologies:
+<div>
+    <a href="https://html.com/">
+    <img align="left" alt="html" width="26px" src="/assets/icons8-html-48.png" style="max-width: 100%;">
+    </a>
+    <a href="https://www.w3.org/Style/CSS/">
+    <img align="left" alt="css" width="26px" src="/assets/icons8-css-48.png" style="max-width: 100%;">
+    </a>
+    <a href="https://nodejs.org/en">
+    <img align="left" alt="node" width="30px" src="/assets/icons8-nodejs-48.png" style="max-width: 100%;">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img align="left" alt="js" width="30px" src="/assets/icons8-js-48.png" style="max-width: 100%;">
+    </a>
+</div>
 
+<div></div>
 <a href="https://html.com/">
 <img align="left" alt="html" width="26px" src="/assets/icons8-html-48.png" style="max-width: 100%;">
 </a>
@@ -75,7 +90,7 @@
 <img align="left" alt="ng" width="30px" src="/assets/nginx.png" style="max-width: 100%;">
 </a>
 <a href="https://sequelize.org/">
-<img align="left" alt="seq" width="30px" src="../ally-razum/assets/sequelize-plain-logo-icon.png" style="max-width: 100%;">
+<img align="left" alt="seq" width="30px" src="/sequelize-plain-logo-icon.png" style="max-width: 100%;">
 </a>
 
 <a href="https://www.postman.com/">
