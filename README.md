@@ -39,13 +39,20 @@
 <a href="https://jestjs.io/">
 <img align="left" alt="jest" width="26px" src="/assets/jest.png" style="max-width: 100%;">
 </a>
-
-<a href="https://getbootstrap.com/">
-<img align="left" alt="bs" width="26px" src="/assets/icons8-bootstrap-48.png" style="max-width: 100%;">
+<a href="https://code.visualstudio.com/">
+<img align="left" alt="vs" width="26px" src="/assets/icons8-visual-studio-48.png" style="max-width: 100%;">
 </a>
 
 <br clear="all">
 <br clear="all">
+
+<a href="https://www.npmjs.com/">
+<img align="left" alt="npm" width="26px" src="/assets/icons8-npm-48.png" style="max-width: 100%;">
+</a>
+
+<a href="https://getbootstrap.com/">
+<img align="left" alt="bs" width="26px" src="/assets/icons8-bootstrap-48.png" style="max-width: 100%;">
+</a>
 
 <a href="https://ant.design/">
 <img align="left" alt="ant" width="26px" src="/assets/ant-middle.png" style="max-width: 100%;">
@@ -87,7 +94,7 @@
 
 <div style="clear:both;"></div>
 
-
+### Projects I took part in:
 ### Сontact me :
 
 <a href="https://t.me/alya10816">
@@ -108,7 +115,6 @@
 <a href="https://www.codewars.com/users/Ally%20Razum">
 <img align="left" alt="cw" width="26px" src="/assets/codewars.png" style="max-width: 100%;">
 </a>
-
 
 
 
