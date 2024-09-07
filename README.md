@@ -12,7 +12,7 @@
 <img align="left" alt="css" width="26px" src="/assets/icons8-css-48.png" style="max-width: 100%;">
 </a>
 <a href="https://nodejs.org/en">
-<img align="left" alt="node" width="30px" src="/assets/icons8-nodejs-48.png" style="max-width: 100%;">
+<img align="left" alt="node" width="35px" src="/assets/icons8-nodejs-48.png" style="max-width: 100%;">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img align="left" alt="js" width="30px" src="/assets/icons8-js-48.png" style="max-width: 100%;">
