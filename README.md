@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://www.typescriptlang.org/">
-<img align="left" alt="ts" width="26px" src="/assets/icons8-машинопись-48.png" style="max-width: 100%;">
+<img align="left" alt="ts" width="30px" src="/assets/icons8-машинопись-48.png" style="max-width: 100%;">
 </a>
 <a href="https://react.dev/">
 <img align="left" alt="react" width="26px" src="/assets/icons8-react-native-48.png" style="max-width: 100%;">
@@ -43,8 +43,7 @@
 
 <br clear="all">
 <br clear="all">
-<br clear="all">
-<br clear="all">
+
 <a href="https://ant.design/">
 <img align="left" alt="ant" width="26px" src="/assets/ant-middle.png" style="max-width: 100%;">
 </a>
