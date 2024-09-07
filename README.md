@@ -51,7 +51,7 @@
 <img align="left" alt="mui" width="26px" src="/assets/material-ui-logo.png" style="max-width: 100%;">
 </a>
 <a href="https://sass-lang.com/">
-<img align="left" alt="sass" width="26px" src="/assets/icons8-sass-48.png" style="max-width: 100%;">
+<img align="left" alt="sass" width="30px" src="/assets/icons8-sass-48.png" style="max-width: 100%;">
 </a>
 
 <a href="https://git-scm.com/">
