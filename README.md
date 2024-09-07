@@ -6,7 +6,7 @@
 ### Tools and technologies::
 
 <a href="https://html.com/">
-<img align="left" alt="html" width="26px" src="./ally-razum/assets/icons8-html-48.png" style="max-width: 100%;">
+<img align="left" alt="html" width="26px" src="/assets/icons8-html-48.png" style="max-width: 100%;">
 </a>
 <a href="https://www.w3.org/Style/CSS/">
 <img align="left" alt="css" width="26px" src="../ally-razum/assets/icons8-css-48.png" style="max-width: 100%;">
