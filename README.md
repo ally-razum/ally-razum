@@ -18,8 +18,6 @@
 <img align="left" alt="js" width="30px" src="/assets/icons8-js-48.png" style="max-width: 100%;">
 </a>
 
-
-
 <a href="https://www.typescriptlang.org/">
 <img align="left" alt="ts" width="26px" src="/assets/icons8-машинопись-48.png" style="max-width: 100%;">
 </a>
@@ -35,17 +33,10 @@
 <a href="https://eslint.org/">
 <img align="left" alt="esl" width="30px" src="/assets/icons8-эслинт-48.png" style="max-width: 100%;">
 </a>
-
-<br clear="all">
-
-
-
 <a href="https://jestjs.io/">
 <img align="left" alt="jest" width="26px" src="/assets/jest.png" style="max-width: 100%;">
 </a>
-<a href="https://www.atlassian.com/software/jira">
-<img align="left" alt="jira" width="26px" src="/assets/icons8-jira-48.png" style="max-width: 100%;">
-</a>
+
 <a href="https://getbootstrap.com/">
 <img align="left" alt="bs" width="26px" src="/assets/icons8-bootstrap-48.png" style="max-width: 100%;">
 </a>
@@ -58,6 +49,11 @@
 <a href="https://sass-lang.com/">
 <img align="left" alt="sass" width="26px" src="/assets/icons8-sass-48.png" style="max-width: 100%;">
 </a>
+
+<br clear="all">
+
+
+
 
 <br clear="all">
 
@@ -82,6 +78,11 @@
 <a href="https://www.postman.com/">
 <img align="left" alt="postman" width="26px" src="/assets/channels4_profile.jpg" style="max-width: 100%;">
 </a>
+
+<a href="https://www.atlassian.com/software/jira">
+<img align="left" alt="jira" width="26px" src="/assets/icons8-jira-48.png" style="max-width: 100%;">
+</a>
+
 <br clear="all">
 
 <div style="clear:both;"></div>
