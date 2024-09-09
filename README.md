@@ -7,6 +7,23 @@
 - 💞️ I will be glad to cooperate, write joint projects on JavaScript, React, Redux toolkit
 - 🤩 **Let's CODE !**
 
+### Projects I took part in:
+<a href="https://www.telus.com/en">Telus Canada</a>
+<img align="left" alt="telus" width="26px" src="/assets/telus.png" style="max-width: 100%;">
+<br clear="all">
+<a href="https://www.telefonica.com.ec/">Telefónica Ecuador</a>
+<img align="left" alt="telefonica" width="26px" src="/assets/telefonica.png" style="max-width: 100%;">
+
+<img align="left" alt="heli-russia" width="40px" src="/assets/rhl.png" style="max-width: 100%;">
+<br clear="all">
+<a href="https://rhc.ru/en/catalog/ka-62">Ka-62, </a>
+<a href="https://rhc.ru/en/catalog/ansat/">Ansat, </a>
+<a href="https://rhc.ru/en/catalog/mi-171a2">Mi-171A2, </a>
+<a href="https://rhc.ru/en/catalog/ka226t">Ka-226T</a>
+
+<br clear="all">
+<br clear="all">
+
 ## Tools and technologies:
 
 <a href="https://html.com/">
