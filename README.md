@@ -14,8 +14,7 @@
 
 - <a href="https://www.telefonica.com.ec/">Telefónica Ecuador<img align="left" alt="telefonica" width="100px" src="/assets/telefonica.png" style="max-width: 100%;"></a>
 
-<br clear="all">
-<img align="left" alt="heli-russia" width="250px" src="/assets/rhl.png" style="max-width: 100%;">
+<img align="left" alt="heli-russia" width="220px" src="/assets/rhl.png" style="max-width: 100%;">
 <br clear="all">
 
 - <a href="https://rhc.ru/en/catalog/ka-62">Ka-62</a>
