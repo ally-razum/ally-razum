@@ -7,7 +7,7 @@
 - 💞️ I will be glad to cooperate, write joint projects on JavaScript, React, Redux toolkit
 - 🤩 **Let's CODE !**
 
-### Projects I took part in:
+## Projects I took part in:
 
 - <a href="https://www.telus.com/en">Telus Canada<img align="left" alt="telus" width="100px" src="/assets/telus.png" style="max-width: 100%;"></a>
 <br clear="all">
