@@ -12,6 +12,7 @@
 - <a href="https://www.telus.com/en">Telus Canada<img align="left" alt="telus" width="100px" src="/assets/telus.png" style="max-width: 100%;"></a>
 <br clear="all">
 <br clear="all">
+
 - <a href="https://www.telefonica.com.ec/">Telefónica Ecuador<img align="left" alt="telefonica" width="100px" src="/assets/telefonica.png" style="max-width: 100%;"></a>
 
 <img align="left" alt="heli-russia" width="220px" src="/assets/rhl.png" style="max-width: 100%;">
@@ -22,7 +23,6 @@
 - <a href="https://rhc.ru/en/catalog/mi-171a2">Mi-171A2</a>
 - <a href="https://rhc.ru/en/catalog/ka226t">Ka-226T</a>
 
-<br clear="all">
 
 
 ## Tools and technologies:
