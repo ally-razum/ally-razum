@@ -8,12 +8,12 @@
 - 🤩 **Let's CODE !**
 
 ### Projects I took part in:
-- <a href="https://www.telus.com/en">Telus Canada<img align="left" alt="telus" width="100px" src="/assets/telus.png" style="max-width: 100%;"></a>
+<a href="https://www.telus.com/en">Telus Canada<img align="left" alt="telus" width="100px" src="/assets/telus.png" style="max-width: 100%;"></a>
 
 <br clear="all">
 
-- <a href="https://www.telefonica.com.ec/">Telefónica Ecuador</a>
-<img align="left" alt="telefonica" width="100px" src="/assets/telefonica.png" style="max-width: 100%;">
+<a href="https://www.telefonica.com.ec/">Telefónica Ecuador<img align="left" alt="telefonica" width="100px" src="/assets/telefonica.png" style="max-width: 100%;"></a>
+
 <br clear="all">
 <img align="left" alt="heli-russia" width="300px" src="/assets/rhl.png" style="max-width: 100%;">
 <br clear="all">
