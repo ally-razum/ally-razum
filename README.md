@@ -10,7 +10,7 @@
 ### Projects I took part in:
 <a href="https://www.telus.com/en">Telus Canada</a>
 <img align="left" alt="telus" width="100px" src="/assets/telus.png" style="max-width: 100%;">
-<br clear="all">
+
 <a href="https://www.telefonica.com.ec/">Telefónica Ecuador</a>
 <img align="left" alt="telefonica" width="100px" src="/assets/telefonica.png" style="max-width: 100%;">
 
