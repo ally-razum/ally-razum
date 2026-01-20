@@ -116,7 +116,7 @@
 
 ### Сontact me :
 
-<a href="https://t.me/alita10816">
+<a href="https://t.me/RazumAlly">
 <img align="left" alt="tg" width="26px" src="/assets/telegram_3670070.png" style="max-width: 100%;">
 </a>
 <a href="https://wa.me/qr/H7WYVBBSGU6BJ1">
