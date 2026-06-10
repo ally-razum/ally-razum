@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Alevtina Razumovskaia and I'm a Web developer
+## Hi there 👋 I'm Alevtina and I'm a Web developer
 - 🚁 I worked as a software engineer in the group for developing algorithmic support for systems at a company that manufactures automatic control systems for helicopters 
 - 📲 I worked as a quality assurance engineer in a large international IT company that produces software for mobile communication and telecommunications systems
 - 😎 **And now I'm a Web developer**
@@ -116,21 +116,12 @@
 
 ### Сontact me :
 
-<a href="https://t.me/RazumAlly">
-<img align="left" alt="tg" width="26px" src="/assets/telegram_3670070.png" style="max-width: 100%;">
-</a>
-<a href="https://wa.me/qr/H7WYVBBSGU6BJ1">
-<img align="left" alt="wa" width="26px" src="/assets/whatsapp_3670051.png" style="max-width: 100%;">
-</a>
 <a href="alevtina.razumovskaia@mail.ru">
 <img align="left" alt="mail" width="26px" src="/assets/mail.png" style="max-width: 100%;">
 </a>
 <a href="https://github.com/ally-razum">
 <img align="left" alt="gh" width="26px" src="/assets/icons8-github-64.png" style="max-width: 100%;">
 </a>
-<a href="https://gitlab.com/pallawmoon">
-<img align="left" alt="" width="26px" src="/assets/icons8-gitlab-48.png" style="max-width: 100%;">
-</a> 
 <a href="https://www.codewars.com/users/Ally%20Razum">
 <img align="left" alt="cw" width="26px" src="/assets/codewars.png" style="max-width: 100%;">
 </a>
